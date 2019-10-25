@@ -1,0 +1,12 @@
+div{
+    max-width: 600px;
+    margin: 0 auto;
+}
+#myCanvas {
+    max-width: 552px;
+    height: 150px;
+}
+
+#image {
+    display: none;
+}
